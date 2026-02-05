@@ -93,9 +93,9 @@ Expected ROI: $320K annual recovery
 ***
 
 **Tooba Nadeem**  
-*Software Engineering | Data Science | Feb 2026*  
+*Software Engineering Junior | Data Science | Feb 2026*  
 *Faisalabad, Pakistan*  
-[🔗 Medium Blog](https://medium.com/@toobanadeem/nyc-congestion-pricing-analysis) | [💼 LinkedIn](https://linkedin.com/in/toobanadeem)
+[🔗 Medium Blog](https://medium.com/@toobaanadeem/nyc-congestion-pricing-4-phase-data-deep-dive-8a8013e48424) | [💼 LinkedIn](https://www.linkedin.com/posts/tooba-nadeem_datascience-python-streamlit-activity-7425272743606165505-iuPS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCDJ5UB_zltld3b-CgTQf-x9SOCP_6KTYA)
 
 ***
 
