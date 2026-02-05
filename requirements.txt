@@ -1,5 +1,5 @@
 # Core data processing
-pyarrow==17.0.0
+pyarrow==11.0.0
 dask[complete]==2024.10.0  
 duckdb==1.1.0
 polars==1.8.0
