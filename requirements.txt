@@ -1,16 +1,16 @@
 # Core data processing
-pyarrow>=14.0.1
-dask[complete]==2024.10.0  
-duckdb==1.1.0
-polars==1.8.0
-pandas==2.2.3
+pyarrow
+dask[complete]
+duckdb
+polars
+pandas
 
 # Web scraping + APIs
-requests==2.32.3
-beautifulsoup4==4.12.3
+requests
+beautifulsoup4
 
 # DASHBOARD
 streamlit==1.38.0
-plotly==5.24.0
-folium==0.20.0
-streamlit-folium==0.17.2
+plotly
+folium
+streamlit-folium
