@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Virtual environment
 .venv/
 venv/
@@ -62,4 +61,3 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
->>>>>>> e1afa7fde9499fb009aa6e22e2699286dc44eeae
