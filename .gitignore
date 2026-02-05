@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Virtual environment
 .venv/
 venv/
@@ -29,3 +30,36 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+=======
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files (2.7GB!!!)
+*.csv
+*.parquet
+*.json
+data/
+*.zip
+*.tar.gz
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+>>>>>>> e1afa7fde9499fb009aa6e22e2699286dc44eeae
